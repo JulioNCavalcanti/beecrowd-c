@@ -10,6 +10,6 @@ int main()
 
     int soma = a + b;
 
-    printf("X = %d", soma);
+    printf("X = %d\n", soma);
     return 0;
 }
